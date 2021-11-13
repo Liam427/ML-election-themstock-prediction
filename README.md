@@ -1,3 +1,10 @@
+# 프로젝트 개요
+내년으로 다가온 대선에 대비하여 테마주가 형성되어 투자? 혹은 투기에 대한 기사들이 나오고 있고 이것들에 대해 데이터과학적으로 
+면밀히 분석하기 위한 프로젝트
+
+# 프로젝트 PPT
+![PPT]()
+
 # Reference
 * https://financedata.github.io/posts/finance-data-reader-users-guide.html
 * http://www.realmeter.net/
