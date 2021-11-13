@@ -3,7 +3,14 @@
 면밀히 분석하기 위한 프로젝트
 
 # 프로젝트 PPT
-![PPT]()
+![PPT](https://github.com/Liam427/ML-election-themstock-prediction/blob/master/CodeStatesProject1.pdf)
+
+# 한계점
+프로젝트를 준비하며 정밀한 분석을 하기 위해 지지율 관련 데이터를 찾아야 했고
+각기 다른 리서치 주관에 따라 각기 다른 지지율을 내고 있기 때문에 이에 대한 대푯값을 찾아야 했으나
+리서치 회사에서 지지율 관련 데이터를 공개하지 않았고 단지 그래프로만 기사화하였기 때문에
+찾기 어려움이 있었다. 따라서 단지 눈으로 추세를 살펴 봄에 있어 그쳤기 때문에 오차가 있을 것이다.
+다음에 이런 프로젝트를 하게 될 때는 지지율 데이터를 꼭 찾아서 정밀하고 면밀하게 분석해 보고 싶다.
 
 # Reference
 * https://financedata.github.io/posts/finance-data-reader-users-guide.html
