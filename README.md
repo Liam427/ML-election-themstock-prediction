@@ -1,8 +1,8 @@
 # 프로젝트 개요
-내년으로 다가온 대선에 대비하여 테마주가 형성되어 투자? 혹은 투기에 대한 기사들이 나오고 있고 이것들에 대해 데이터과학적으로 
-면밀히 분석하기 위한 프로젝트
-
-# [프로젝트 PPT](https://github.com/Liam427/ML-election-themstock-prediction/blob/master/CodeStatesProject1.pdf)
+내년으로 다가온 대선에 대비하여 테마주가 형성되어 투자? 혹은 투기에 대한 기사들이 
+나오고 있고 이것들에 대해 면밀히 분석하여 투자혹은 투기에 대한 
+나의 생각을 데이터과학적으로 말하기 위한 프로젝트
+[프로젝트 PPT](https://github.com/Liam427/ML-election-themstock-prediction/blob/master/CodeStatesProject1.pdf)
 
 # 한계점
 프로젝트를 준비하며 정밀한 분석을 하기 위해 지지율 관련 데이터를 찾아야 했고
